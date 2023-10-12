@@ -5,10 +5,12 @@
       <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge">
     <a href="Linkedin-link">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge">
-    </a>
-   <p align='center'>
-   <a href="https://t.me/Sergey_Yakuninn">
+    <a href="https://t.me/Sergey_Yakuninn">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   <p align='center'>
+   <a href="https://vk.com/anar_khia">
+      <img src="https://github.com/VKCOM/icons/blob/master/packages/icons/src/svg/48/logo_vk_48.svg" alt="Vk Badge">
+    </a>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:ciellol@yandex.ru'>ciellol@yandex.ru</a>
