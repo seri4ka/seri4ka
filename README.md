@@ -24,7 +24,7 @@
 </h1>
 
 <p align="center">
-  Quant Researcher • Financial Mathematician • Data Scientist • C++/Python Developer
+  Quant Researcher • Financial Mathematician • Data Scientist
 </p>
 
 <p align="center">
