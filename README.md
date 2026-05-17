@@ -2,9 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430"/>
 
   <div id="badges">
-    <a href="https://instagram.com/seri4ka?igshid=MjkzY2Y1YTY=">
-      <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge">
-    </a>
     <a href="https://www.linkedin.com/in/sergey-yakunin-quant">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
